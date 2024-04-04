@@ -1,0 +1,14 @@
+.test{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 80px;
+}
+.a{
+    margin-left: 220px;
+}
+.a2{
+    margin-left: -15px;
+}
